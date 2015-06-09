@@ -1,0 +1,25 @@
+#mainbody{
+    background-color:white;
+    font-family:Cursive;
+    padding:50px
+    font-size:30px;
+}
+
+.navbar{
+
+  font-size: 30px;
+  color:red;
+  font-family:cursive;
+background-color:gray;
+
+}
+.navbar li{
+ display:inline-block;
+  padding:50px;
+}
+p{
+  border:solid; color:red;
+}
+body{
+  background-color:red;
+}
