@@ -15,7 +15,7 @@ background-color:gray;
 }
 .navbar li{
  display:inline-block;
-  padding:50px;
+  padding:30px;
 }
 p{
   border:solid; color:red;
